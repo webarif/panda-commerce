@@ -1,0 +1,17 @@
+
+.bg-color{
+    background-color:#FCEAE8;
+}
+.price-rate{
+    color:#FF3C89 ;
+}
+.buy-btn{
+    background-color: #FF3C89;
+    color: white;
+}
+.gy-5 {
+    --bs-gutter-y: 5rem;
+}
+.bag-bg{
+    background-color: #DA70D6;
+}
